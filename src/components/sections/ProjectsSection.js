@@ -31,7 +31,7 @@ export default function ProjectsSection() {
           </TextWrapper>
           <ButtonWrapper>
             <a
-              href="https://github.com/jmulligan2020/my-app"
+              href="https://github.com/jmulligan2020/portfoliosite"
               target="_blank"
               rel="noopener noreferrer"
             >
