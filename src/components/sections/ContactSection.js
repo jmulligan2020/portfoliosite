@@ -34,7 +34,8 @@ export default function ContactSection() {
             />
           </a>
           <a
-            href="https://www.figma.com/file/JiEwOYYn5jeSGxRecvctrhvK/Final-Prototype?node-id=0%3A1"
+            href="https://www.linkedin.com/in/john-mulligan-bb73a81a9
+            https://www.linkedin.com/in/john-mulligan-bb73a81a9"
             target="_blank"
             rel="noopener noreferrer"
           >
