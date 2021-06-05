@@ -21,11 +21,7 @@ export default function ContactSection() {
           </Info>
         </TextWrapper>
         <ButtonWrapper>
-          <a
-            href="https://www.figma.com/proto/JiEwOYYn5jeSGxRecvctrhvK/Final-Prototype?page-id=0%3A1&node-id=4%3A109&viewport=-494%2C-177%2C0.2703247666358948&scaling=scale-down"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="mailto:jmulligan2020@gmail.com">
             <MenuButton
               item={{
                 title: "Email",
